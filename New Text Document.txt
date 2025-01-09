@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohamed Mohamed HR CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #000;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mohamed Mohamed Ahmed Abdelall</h1>
+        <div class="section">
+            <h2>Personal Information</h2>
+            <ul>
+                <li><strong>Name:</strong> Mohamed Mohamed Ahmed Abdelall</li>
+                <li><strong>Address:</strong> 32, Abdelgaleel Mostafa St – Bolaq El Dakrour – Giza</li>
+                <li><strong>Cell Phone 1:</strong> 01030019140</li>
+                <li><strong>Cell Phone 2:</strong> 01026878462</li>
+                <li><strong>Email:</strong> hamooom4645@gmail.com</li>
+                <li><strong>Date of Birth:</strong> May 8, 2005</li>
+                <li><strong>Marital Status:</strong> Single</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Professional Qualifications (Training)</h2>
+            <ul>
+                <li><strong>Duration:</strong> From 12-12-2023 to 20-2-2024 (Graphics Design)</li>
+                <li><strong>Institution:</strong> Russian Cultural Center</li>
+                <li><strong>Programs Trained On:</strong>
+                    <ul>
+                        <li>Photoshop</li>
+                        <li>Illustrator</li>
+                        <li>InDesign</li>
+                    </ul>
+                </li>
+                <li><strong>Total Duration:</strong> 75 training hours</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Education</h2>
+            <ul>
+                <li><strong>2022-Present:</strong> Faculty of Social Service, Helwan University</li>
+                <li><strong>2020-2023:</strong> High School - Orman Military Secondary School for Boys</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
